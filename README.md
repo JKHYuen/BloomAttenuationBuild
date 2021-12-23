@@ -9,7 +9,7 @@ Project Source Available on Patreon: https://www.patreon.com/KH_Y
 ## To Start Tech Demo
 ***Windows 64-bit required** 
 1. Clone or download zip with green "Code" button at the top right 
-2. Run "BloomAttenutation.exe" (must be unzipped)
+2. Run "BloomAttenutation.exe" (files must be unzipped)
 
 ## Controls
     WASD: to move
