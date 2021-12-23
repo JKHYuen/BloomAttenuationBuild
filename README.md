@@ -1,12 +1,12 @@
 # Bloom Attenuation
 Tech demo to show a solution to improve traditional bloom. Bloom contribution is affected by depth buffer to simulate light attenuation.
 
-# To Start Tech Demo
+## To Start Tech Demo
 ***Windows 64-bit required** 
-1. Clone or download repo with green "Code" button at the top left
-2. Run "BloomAttenutation.exe"
+1. Clone or download zip with green "Code" button at the top left 
+2. Run "BloomAttenutation.exe" (must be unzipped)
 
-# Controls
+## Controls
     WASD: to move
     Shift: run
 
@@ -20,7 +20,7 @@ Tech demo to show a solution to improve traditional bloom. Bloom contribution is
     p: toggle demo camera
     backspace: reload scene
     
-# Bloom Parameters
+## Bloom Parameters
 **Blur iterations:** \
 Number of iterations of down and upsampling with box sampling for blur.
 
@@ -32,7 +32,7 @@ described here: https://www.desmos.com/calculator/tgc6s2bn1y
 Intensity of bloom.
 
 **Attenuation:** \
-Normalized value for amount of bloom attenuation. Lerps between no attenuation (standard bloom) and full attenuation effect
+Normalized value for amount of bloom attenuation. Lerps between no attenuation (standard bloom) and full attenuation effect.
 
 **Distance Scale:** \
 Adjusts far plane of depth camera.
