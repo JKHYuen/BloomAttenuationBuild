@@ -1,7 +1,9 @@
 ![Bloom Atten Header](docs/BloomAttenReadmeSS.png?raw=true "") 
 
 # Bloom Attenuation
-Tech demo to show a solution to improve traditional bloom. Bloom contribution is affected by depth buffer to simulate light attenuation. Implemented on Unity's Built-in Render Pipeline.
+Tech demo to show a solution to improve traditional bloom. Bloom contribution is affected by depth buffer to simulate light attenuation. Implemented on Unity's Built-in Render Pipeline. 
+     Full Explanation and breakdown: https://youtu.be/u5lX2zunj7g
+Project Source Available on Patreon: https://www.patreon.com/KH_Y
 
 ## To Start Tech Demo
 ***Windows 64-bit required** 
