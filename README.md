@@ -1,5 +1,5 @@
 # Bloom Attenuation
-Tech demo to show a solution to improve traditional bloom. Bloom contribution is affected by depth buffer to simulate light attenuation.
+Tech demo to show a solution to improve traditional bloom. Bloom contribution is affected by depth buffer to simulate light attenuation. Implemented on Unity's Built-in Render Pipeline.
 
 ## To Start Tech Demo
 ***Windows 64-bit required** 
