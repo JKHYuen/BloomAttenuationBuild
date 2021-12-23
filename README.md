@@ -9,6 +9,7 @@ Tech demo to show a solution to improve traditional bloom. Bloom contribution is
 ## Controls
     WASD: to move
     Shift: run
+    Space: jump
 
     Q: toggle Bloom Menu
     E: toggle Projectile Demo
