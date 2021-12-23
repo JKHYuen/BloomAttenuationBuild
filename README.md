@@ -32,7 +32,7 @@ Number of iterations of down and upsampling with box sampling for blur.
 
 **Threshold / Soft Threshold:** \
  *t* and *s*, respectively, in the bloom contribution function \
-described here: https://www.desmos.com/calculator/rauntuxt9o
+defined here: https://www.desmos.com/calculator/rauntuxt9o
 
 **Intensity:** \
 Intensity of bloom.
