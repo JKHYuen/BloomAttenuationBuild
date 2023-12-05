@@ -12,7 +12,7 @@ Project Source Available on Patreon: https://www.patreon.com/KH_Y
 2. Run "BloomAttenutation.exe" (files must be unzipped)
 
 ## Controls
-    WASD:  to move
+     WASD: to move
     Shift: run
     Space: jump
 
