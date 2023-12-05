@@ -23,8 +23,8 @@ Project Source Available on Patreon: https://www.patreon.com/KH_Y
     2: switch to depth view
     3: switch to bloom contribution view
     
-    p: toggle demo camera
-    backspace: reload scene
+    P: toggle demo camera
+    Backspace: reload scene
     
 ## Bloom Parameters
 **Blur iterations:** \
